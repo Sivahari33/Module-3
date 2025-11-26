@@ -1,4 +1,4 @@
-#  Strings-Remove Nth Index Character from a String
+# 3C.Strings-Remove Nth Index Character from a String
 
 ##  Aim
 To write a Python program that accepts a string and removes the character at a specified index.
