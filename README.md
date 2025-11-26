@@ -1,4 +1,4 @@
-# List Operations in Python: Sum of List Items
+# 3A.List Operations in Python: Sum of List Items
 
 ## Aim
 To write a Python program that calculates the **sum of all elements** in a list.
@@ -22,7 +22,7 @@ print(sum(items))
 ## Result
 Thus the program executed successfully.
 
-# Regex in Python: Filter Words Without the Letter 'e'
+# 3B.Regex in Python: Filter Words Without the Letter 'e'
 
 ## Aim
 To write a Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)**.
@@ -58,7 +58,7 @@ print("Words without 'e':", l1)
 Thus the program executed successfully.
 
 
-#  Strings-Remove Nth Index Character from a String
+# 3C.Strings-Remove Nth Index Character from a String
 
 ##  Aim
 To write a Python program that accepts a string and removes the character at a specified index.
@@ -89,7 +89,7 @@ def remove(a):
 ## Result
 Thus the program executed successfully.
 
-# Strings-Palindrome Check in Python (Without Built-in Functions)
+# 3D.Strings-Palindrome Check in Python (Without Built-in Functions)
 
 ## Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
@@ -119,7 +119,7 @@ else:
 ## Result
 Thus the program executed successfully.
 
-# Tuple in Python: Check Element Existence
+# 3E.Tuple in Python: Check Element Existence
 
 ##  Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
